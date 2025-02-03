@@ -1,4 +1,4 @@
-# (7°) Verifique se um número é múltiplo de 5.
+# (17°) Verifique se um número é múltiplo de 5.
 
 n1 = int(input("Digite um número: "))
 

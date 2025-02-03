@@ -1,4 +1,4 @@
-# (1°) Peça dois números ao usuário e mostre a soma, subtração, multiplicação e divisão.
+# (11°) Peça dois números ao usuário e mostre a soma, subtração, multiplicação e divisão.
 
 n1 = int(input("Digite um valor: "))
 n2 = int(input("Diigte um valor: "))

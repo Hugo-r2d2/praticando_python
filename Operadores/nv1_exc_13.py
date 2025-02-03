@@ -1,4 +1,4 @@
-# (3°) Compare dois números informados pelo usuário e exiba o maior.
+# (13°) Compare dois números informados pelo usuário e exiba o maior.
 
 n1 = int(input("Digite um número: "))
 n2 = int(input("Digite um número: "))

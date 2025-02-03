@@ -1,4 +1,4 @@
-# (2°) Verifique se um número digitado pelo usuário é par ou ímpar.
+# (12°) Verifique se um número digitado pelo usuário é par ou ímpar.
 
 n1 = int(input("Digite um valor: "))
 

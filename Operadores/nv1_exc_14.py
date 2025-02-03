@@ -1,4 +1,4 @@
-# (4°) Solicite um número ao usuário e verifique se ele é positivo, negativo ou zero.
+# (14°) Solicite um número ao usuário e verifique se ele é positivo, negativo ou zero.
 n = int(input("Digite um número: "))
 
 if n < 0:

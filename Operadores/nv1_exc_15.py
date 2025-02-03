@@ -1,4 +1,4 @@
-# (5°) Calcule o quadrado e o cubo de um número digitado pelo usuário.
+# (15°) Calcule o quadrado e o cubo de um número digitado pelo usuário.
 
 n1 = int(input("Digite um número: "))
 
